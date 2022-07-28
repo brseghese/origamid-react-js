@@ -20,6 +20,7 @@
 ####
 
 - React Básico
+- React e JavaScript
 
 </details>
 
