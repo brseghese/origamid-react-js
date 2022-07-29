@@ -22,6 +22,7 @@
 - React Básico
 - React e JavaScript
 - Webpack e Babel
+- npx create-react-app
 
 </details>
 
