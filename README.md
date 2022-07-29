@@ -21,6 +21,7 @@
 
 - React Básico
 - React e JavaScript
+- Webpack e Babel
 
 </details>
 
