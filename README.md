@@ -23,6 +23,7 @@
 - React e JavaScript
 - Webpack e Babel
 - npx create-react-app
+- Ambiente do curso
 
 </details>
 
