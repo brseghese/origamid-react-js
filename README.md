@@ -25,6 +25,7 @@
 - npx create-react-app
 - Ambiente do curso
 - JSX
+- JSX Arrays
 
 </details>
 
