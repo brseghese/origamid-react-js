@@ -26,6 +26,8 @@
 - Ambiente do curso
 - JSX
 - JSX Arrays
+- Componentes
+- Propriedades
 
 </details>
 
