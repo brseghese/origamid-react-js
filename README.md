@@ -15,7 +15,7 @@
 ####
 
 <details>
-<summary>1. React JS para Iniciantes</summary>
+<summary>1. React Iniciante</summary>
 
 ####
 
@@ -28,6 +28,15 @@
 - JSX Arrays
 - Componentes
 - Propriedades
+
+</details>
+
+<details>
+<summary>1. React Hooks</summary>
+
+####
+
+- useState
 
 </details>
 
