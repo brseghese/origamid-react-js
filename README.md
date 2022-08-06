@@ -39,6 +39,7 @@
 - useState
 - useEffect
 - useRef
+- useContext
 
 </details>
 
