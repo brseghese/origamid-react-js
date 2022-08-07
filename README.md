@@ -40,6 +40,7 @@
 - useEffect
 - useRef
 - useContext
+- Custom Hooks
 
 </details>
 
