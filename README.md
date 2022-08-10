@@ -50,6 +50,10 @@
 ####
 
 - input
+- textarea
+- select
+- radio
+- checkbox
 
 </details>
 
