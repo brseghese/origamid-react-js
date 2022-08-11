@@ -54,6 +54,7 @@
 - select
 - radio
 - checkbox
+- components
 
 </details>
 
