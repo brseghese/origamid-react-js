@@ -88,6 +88,18 @@
 
 </details>
 
+<details>
+<summary>6. React Avançado</summary>
+
+####
+
+- PropTypes
+- Lazy e Suspense
+- Memo
+- useReducer
+
+</details>
+
 ---
 
 ### 📝 License
